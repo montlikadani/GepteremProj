@@ -59,7 +59,7 @@ namespace GepteremProj {
                                     clicked.BackgroundImage = pontok[3];
                                     break;
                                 case 3:
-                                    gepterem.ertekeles[pair.Key, pair.Value] = 3;
+                                    gepterem.ertekeles[pair.Key, pair.Value] = 1;
                                     clicked.BackgroundImage = pontok[1];
                                     break;
                                 default:
